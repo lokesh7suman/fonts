@@ -1,4 +1,4 @@
-# Programming Fonts
+# Programming Fonts For Better Visibility
 
 > Color theme is Github Dark (Visual Studio Code)
 
